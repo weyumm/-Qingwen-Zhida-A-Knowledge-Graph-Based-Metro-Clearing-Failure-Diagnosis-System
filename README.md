@@ -1,10 +1,13 @@
 # “清问智答”——基于知识图谱的地铁清分失效诊断系统
+![我们的slogan](https://github.com/user-attachments/assets/4de8519e-25d0-4751-b5fd-70a2892906ed)
+
 # Qingwen-Zhida-A-Knowledge-Graph-Based-Metro-Clearing-Failure-Diagnosis-System
 全国大学生交通科技大赛作品（“清问智答”小组）
 
 # 设计思路
 ## 1，双轨并行的推理检验架构
-![创新点之图](https://github.com/user-attachments/assets/58ec58fe-d390-4313-88fb-e1c30b11d22b)
+![创新点之图](https://github.com/user-attachments/assets/c7ce0fb8-8f28-4ded-a04e-bb8707a0d494)
+
 ## 2，面向垂直领域的L2大模型
 - L0通识大模型 是指可以在多个领域和任务上通用的大模型。它们利用大算力、使用海量的开放数据与具有巨量参数的深度学习算法，在大规模无标注数据上进行训练，以寻找特征并发现规律，进而形成可“举一反三”的强大泛化能力，可在不进行微调或少量微调的情况下完成多场景任务，相当于AI完成了“通识教育”
 
