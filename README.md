@@ -3,11 +3,14 @@
 全国大学生交通科技大赛作品
 
 # 设计思路
+## 1，双轨并行的推理检验架构
 ![创新点之图](https://github.com/user-attachments/assets/58ec58fe-d390-4313-88fb-e1c30b11d22b)
+## 2，面向垂直领域的L2大模型
 ![L0L1L2](https://github.com/user-attachments/assets/986a7b24-def7-4604-b5dd-956b3d463ce2)
 
 
 # 视频演示
 以下为演示视频
+
 https://github.com/user-attachments/assets/f1773b8b-fb7e-4023-8c1a-37b20a1a6ff2
 
