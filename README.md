@@ -22,6 +22,12 @@
 
 https://github.com/user-attachments/assets/f1773b8b-fb7e-4023-8c1a-37b20a1a6ff2
 
+
+# 旧版本线上应用
+【旧模型应用】可扫码试用
+
+![二维码](https://github.com/user-attachments/assets/7beacdaa-ae4d-4169-9eb9-6572995bd528)
+![a249a81b272302a3e454fe6867abda8](https://github.com/user-attachments/assets/74c9d939-e5b9-4e17-be0b-146bd9dd12db)
 # 成果梗概
 ## 1，知识图谱
 ![image](https://github.com/user-attachments/assets/56691d97-0163-483d-827b-ca0a67343d94)
@@ -34,14 +40,6 @@ https://github.com/user-attachments/assets/f1773b8b-fb7e-4023-8c1a-37b20a1a6ff2
 根据三元组数据中龙阳路具有换乘站、大站车车站、早高峰大客流等特点，滴水湖、11号线、10号线、东方体育中心等也都有类似特点，故作为预测组；6号线、7号线、华宁路、五莲路、国帆路等均不具有相关特征，故作为参照组。分别检验它们与失效致因之间的可能性大小：
 ![image](https://github.com/user-attachments/assets/23cd55d3-c723-4e66-ae39-6240a37f1408)
 ![image](https://github.com/user-attachments/assets/4f0cff35-c994-403e-a648-1dadf280918c)
-
-
-# 旧版本线上应用
-【旧模型应用】可扫码试用
-
-![二维码](https://github.com/user-attachments/assets/7beacdaa-ae4d-4169-9eb9-6572995bd528)
-![a249a81b272302a3e454fe6867abda8](https://github.com/user-attachments/assets/74c9d939-e5b9-4e17-be0b-146bd9dd12db)
-
 # 大模型特色
 ## 1，LoRA技术
 ![image](https://github.com/user-attachments/assets/3347aa51-ffba-4632-9046-35db6d8adf18)
