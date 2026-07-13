@@ -1,4 +1,4 @@
-# Contributing to GraphRAG Local Ollama
+# Contributing to GraphRAG Local Ollama-0
 
 We welcome contributions from the community to help enhance GraphRAG Local Ollama! Whether you're interested in adding new features, fixing bugs, improving documentation, or suggesting ideas, your contributions are highly valued.
 
