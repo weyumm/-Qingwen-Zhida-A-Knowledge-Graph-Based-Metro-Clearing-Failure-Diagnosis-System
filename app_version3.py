@@ -24,7 +24,7 @@ import re
 from typing import List
 import tiktoken
 import networkx as nx
-# 精确导入 GlobalSearch 类
+# 精确导入 GlobalSearch 类，作为图神经网络架构
 sys.path.append("E:\\work_and_study\\path_same\\mini_adjust\\graphrag-local-ollama\\graphrag-local-ollama")
 from graphrag.query.structured_search.global_search.search import GlobalSearch
 from graphrag.query.context_builder.builders import GlobalContextBuilder
