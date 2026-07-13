@@ -3,7 +3,7 @@
 # "QingwenZhida"——A Knowledge Graph Based Metro Clearing Failure Diagnosis System
 <a href="https://github.com/weyumm" target="_blank"><img  align=center src="https://img.shields.io/badge/项目介绍-Qfzd-%2316ff47?style=flat"/></a>    <a href="[https://space.bilibili.com/347006675](https://www.bilibili.com/video/BV1GVdwYMENa/?vd_source=17829e412fbf48cecf092ac260acc65b)" target="_blank"><img  align=center src="https://img.shields.io/badge/演示视频-Qfzd-%2324f9a6?style=flat"/></a>    <a href="https://gitee.com/weyumm" target="_blank"><img  align=center src="https://img.shields.io/badge/gitee-代码仓库-%2324eff9?style=flat"/></a>    <a href="https://gitlab.com/weyumm" target="_blank"><img  align=center src="https://img.shields.io/badge/gitlab-模型备份-%233ab7f2?style=flat"/></a>    <a href="https://modelscope.cn/profile/weiyumm" target="_blank"><img  align=center src="https://img.shields.io/badge/modelscope-魔塔社区-%23a73af2?style=flat"/></a>    <a href="https://weyumm.github.io/" target="_blank"><img  align=center src="https://img.shields.io/badge/Blog-技术博客-%23f283f0?style=flat"/></a>
 
-全国大学生交通科技大赛作品（“清问智答”小组）
+全国大学生轨道交通科技创新大赛作品（“清问智答”小组）
 
 # 设计思路
 ## 1，双轨并行的推理检验架构
